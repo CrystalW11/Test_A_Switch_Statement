@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "18-Test_A_Switch_Statement/1.0.0": {
+        "runtime": {
+          "18-Test_A_Switch_Statement.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "18-Test_A_Switch_Statement/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+D:\coding_dojo\C Sharp\C#\CsharpProjects\18-Test_A_Switch_Statement\obj\Debug\net9.0\18-Test_A_Switch_Statement.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding_dojo\C Sharp\C#\CsharpProjects\18-Test_A_Switch_Statement\obj\Debug\net9.0\18-Test_A_Switch_Statement.AssemblyInfoInputs.cache
+D:\coding_dojo\C Sharp\C#\CsharpProjects\18-Test_A_Switch_Statement\obj\Debug\net9.0\18-Test_A_Switch_Statement.AssemblyInfo.cs
+D:\coding_dojo\C Sharp\C#\CsharpProjects\18-Test_A_Switch_Statement\obj\Debug\net9.0\18-Test_A_Switch_Statement.csproj.CoreCompileInputs.cache
+D:\coding_dojo\C Sharp\C#\CsharpProjects\18-Test_A_Switch_Statement\bin\Debug\net9.0\18-Test_A_Switch_Statement.exe
+D:\coding_dojo\C Sharp\C#\CsharpProjects\18-Test_A_Switch_Statement\bin\Debug\net9.0\18-Test_A_Switch_Statement.deps.json
+D:\coding_dojo\C Sharp\C#\CsharpProjects\18-Test_A_Switch_Statement\bin\Debug\net9.0\18-Test_A_Switch_Statement.runtimeconfig.json
+D:\coding_dojo\C Sharp\C#\CsharpProjects\18-Test_A_Switch_Statement\bin\Debug\net9.0\18-Test_A_Switch_Statement.dll
+D:\coding_dojo\C Sharp\C#\CsharpProjects\18-Test_A_Switch_Statement\bin\Debug\net9.0\18-Test_A_Switch_Statement.pdb
+D:\coding_dojo\C Sharp\C#\CsharpProjects\18-Test_A_Switch_Statement\obj\Debug\net9.0\18-Test_A_Switch_Statement.dll
+D:\coding_dojo\C Sharp\C#\CsharpProjects\18-Test_A_Switch_Statement\obj\Debug\net9.0\refint\18-Test_A_Switch_Statement.dll
+D:\coding_dojo\C Sharp\C#\CsharpProjects\18-Test_A_Switch_Statement\obj\Debug\net9.0\18-Test_A_Switch_Statement.pdb
+D:\coding_dojo\C Sharp\C#\CsharpProjects\18-Test_A_Switch_Statement\obj\Debug\net9.0\18-Test_A_Switch_Statement.genruntimeconfig.cache
+D:\coding_dojo\C Sharp\C#\CsharpProjects\18-Test_A_Switch_Statement\obj\Debug\net9.0\ref\18-Test_A_Switch_Statement.dll
